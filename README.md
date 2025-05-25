@@ -9,4 +9,8 @@ Requirements:
 - Create an index.html file which will link to pages for each recipe added
 - Create multiple pages for recipes (e.g. lasagna.html) and provide a way to navigate back to the index page
 
-Temporary comment to check that git email has updated correctly
+Skills learned:
+
+- Implemented basic HTML structure on pages
+- Linked multiple pages together
+- Worked with images and lists
